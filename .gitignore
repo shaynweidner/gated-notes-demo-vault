@@ -1,0 +1,6 @@
+# Obsidian user-specific files
+.obsidian/workspace.json
+.obsidian/cache/
+
+# Obsidian trash folder
+.trash/

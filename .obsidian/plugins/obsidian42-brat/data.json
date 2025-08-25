@@ -1,0 +1,22 @@
+{
+  "pluginList": [
+    "shaynweidner/obsidian-gated-notes"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "shaynweidner/obsidian-gated-notes",
+      "version": "2.4.0"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false
+}
