@@ -10,10 +10,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is supervised learning?",
+        "back": "Supervised learning is the exercise of using inputs to predict the values of outputs, given a set of measured or preset input variables and corresponding outputs."
+      }
+    ]
   },
   "c_1756151260202_zenwgki": {
     "id": "c_1756151260202_zenwgki",
@@ -26,10 +32,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What are alternative terms for 'inputs' in statistical and pattern recognition literature?",
+        "back": "In statistics, inputs are called predictors or independent variables. In pattern recognition, they are called features."
+      }
+    ]
   },
   "c_1756151260212_nsjchha": {
     "id": "c_1756151260212_nsjchha",
@@ -42,10 +54,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What are alternative terms for 'outputs' in statistical literature?",
+        "back": "Outputs are called responses or dependent variables."
+      }
+    ]
   },
   "c_1756151260222_tfb64kf": {
     "id": "c_1756151260222_tfb64kf",
@@ -58,10 +76,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the difference between quantitative and qualitative outputs?",
+        "back": "Quantitative outputs are numerical and ordered, while qualitative outputs assume values in a finite set without explicit ordering and are also called categorical or discrete variables."
+      }
+    ]
   },
   "c_1756151260242_cbgs2b5": {
     "id": "c_1756151260242_cbgs2b5",
@@ -74,10 +98,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the naming convention for prediction tasks based on output type?",
+        "back": "Regression is used when predicting quantitative outputs, and classification is used when predicting qualitative outputs."
+      }
+    ]
   },
   "c_1756151260253_igoh6p9": {
     "id": "c_1756151260253_igoh6p9",
@@ -90,10 +120,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is an ordered categorical variable?",
+        "back": "An ordered categorical variable has values with a specific order (e.g., small, medium, large), but no meaningful metric for the difference between values."
+      }
+    ]
   },
   "c_1756151260282_24wvlj4": {
     "id": "c_1756151260282_24wvlj4",
@@ -106,10 +142,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How are binary qualitative variables typically represented numerically?",
+        "back": "Binary qualitative variables are often represented by a single bit as 0 or 1, or by −1 and 1."
+      }
+    ]
   },
   "c_1756151260299_phycn74": {
     "id": "c_1756151260299_phycn74",
@@ -122,10 +164,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is a dummy variable in the context of qualitative variables?",
+        "back": "A dummy variable is a binary variable used to represent each level of a qualitative variable, so a K-level qualitative variable is represented by a vector of K binary variables, only one of which is 'on' at a time."
+      }
+    ]
   },
   "c_1756151260315_imk6fbw": {
     "id": "c_1756151260315_imk6fbw",
@@ -138,10 +186,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What symbols are typically used to denote input and output variables?",
+        "back": "Input variables are denoted by $X$, quantitative outputs by $Y$, and qualitative outputs by $G$."
+      }
+    ]
   },
   "c_1756151260324_75q84r4": {
     "id": "c_1756151260324_75q84r4",
@@ -154,10 +208,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How are observed values of variables denoted?",
+        "back": "Observed values are written in lowercase, e.g., $x_i$ for the $i$th observed value of $X$."
+      }
+    ]
   },
   "c_1756151260334_mjh8kv1": {
     "id": "c_1756151260334_mjh8kv1",
@@ -170,10 +230,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How are matrices and vectors represented in notation?",
+        "back": "Matrices are represented by bold uppercase letters, e.g., $X$ for an $N \\times p$ matrix of inputs. Vectors are not bold unless they have $N$ components."
+      }
+    ]
   },
   "c_1756151260346_22gdr6i": {
     "id": "c_1756151260346_22gdr6i",
@@ -186,10 +252,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the general learning task in supervised learning?",
+        "back": "Given the value of an input vector $X$, make a good prediction of the output $Y$, denoted by $\\hat{Y}$."
+      }
+    ]
   },
   "c_1756151260387_jj5fue1": {
     "id": "c_1756151260387_jj5fue1",
@@ -202,10 +274,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How is a two-class qualitative output often handled in prediction?",
+        "back": "The binary coded target is denoted as $Y$ and treated as a quantitative output. Predictions $\\hat{Y}$ typically lie in $[0,1]$, and class labels are assigned based on whether $\\hat{y} > 0.5$."
+      }
+    ]
   },
   "c_1756151260394_c3kiuky": {
     "id": "c_1756151260394_c3kiuky",
@@ -218,10 +296,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is training data?",
+        "back": "Training data is a set of measurements $(x_i, y_i)$ or $(x_i, g_i)$, $i = 1, \\ldots, N$, used to construct a prediction rule."
+      }
+    ]
   },
   "c_1756151260428_al7ljmy": {
     "id": "c_1756151260428_al7ljmy",
@@ -234,10 +318,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the general form of the linear model for prediction?",
+        "back": "$$\\hat{Y} = \\beta_0 + \\sum_{j=1}^{p} X_j \\hat{\\beta}_j$$"
+      }
+    ]
   },
   "c_1756151260450_w6r169o": {
     "id": "c_1756151260450_w6r169o",
@@ -250,10 +340,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How can the linear model be written in vector form?",
+        "back": "$$\\hat{Y} = X^T \\hat{\\beta}$$"
+      }
+    ]
   },
   "c_1756151260468_ca0mi4v": {
     "id": "c_1756151260468_ca0mi4v",
@@ -266,10 +362,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the intercept in a linear model also known as?",
+        "back": "The intercept $\\hat{\\beta}_0$ is also known as the bias in machine learning."
+      }
+    ]
   },
   "c_1756151260486_r04h2lc": {
     "id": "c_1756151260486_r04h2lc",
@@ -282,10 +384,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What does the linear model represent in input–output space?",
+        "back": "In $(p + 1)$-dimensional input–output space, $(X, Y)$ represents a hyperplane."
+      }
+    ]
   },
   "c_1756151260499_wd0am3y": {
     "id": "c_1756151260499_wd0am3y",
@@ -298,10 +406,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the gradient of the linear function $f(X) = X \\hat{\\beta}$?",
+        "back": "The gradient $f'(X) = \\hat{\\beta}$ is a vector in input space that points in the steepest uphill direction."
+      }
+    ]
   },
   "c_1756151260507_pzvl4f4": {
     "id": "c_1756151260507_pzvl4f4",
@@ -314,10 +428,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the method of least squares?",
+        "back": "Least squares is a method to fit the linear model by picking coefficients $\\beta$ to minimize the residual sum of squares: $$RSS(\\beta) = \\sum_{i=1}^{N} (y_i - x_i^T \\beta)^2$$"
+      }
+    ]
   },
   "c_1756151260520_efgsyok": {
     "id": "c_1756151260520_efgsyok",
@@ -330,10 +450,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the matrix form of the residual sum of squares?",
+        "back": "$$RSS(\\beta) = (y - X \\beta)^T (y - X \\beta)$$"
+      }
+    ]
   },
   "c_1756151260532_kez8lnk": {
     "id": "c_1756151260532_kez8lnk",
@@ -346,10 +472,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What are the normal equations for least squares?",
+        "back": "$$X^T (y - X \\beta) = 0$$"
+      }
+    ]
   },
   "c_1756151260550_ftor8fn": {
     "id": "c_1756151260550_ftor8fn",
@@ -362,10 +494,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the least squares solution for $\\hat{\\beta}$ if $X^T X$ is nonsingular?",
+        "back": "$$\\hat{\\beta} = (X^T X)^{-1} X^T y$$"
+      }
+    ]
   },
   "c_1756151260568_nr5b1tf": {
     "id": "c_1756151260568_nr5b1tf",
@@ -378,10 +516,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How is the fitted value at the $i$th input $x_i$ computed in the linear model?",
+        "back": "$$\\hat{y}_i = x_i \\hat{\\beta}$$"
+      }
+    ]
   },
   "c_1756151260585_s4k73o9": {
     "id": "c_1756151260585_s4k73o9",
@@ -394,10 +538,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How is the prediction at an arbitrary input $x_0$ computed in the linear model?",
+        "back": "$$\\hat{y}(x_0) = x_0 \\hat{\\beta}$$"
+      }
+    ]
   },
   "c_1756151260611_rndlasx": {
     "id": "c_1756151260611_rndlasx",
@@ -410,10 +560,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How are fitted values $\\hat{Y}$ converted to class labels $\\hat{G}$ in binary classification using linear regression?",
+        "back": "$$\\hat{G} = \\begin{cases} ORANGE & \\text{if } \\hat{Y} > 0.5, \\\\ BLUE & \\text{if } \\hat{Y} \\leq 0.5. \\end{cases}$$"
+      }
+    ]
   },
   "c_1756151260626_1q5gule": {
     "id": "c_1756151260626_1q5gule",
@@ -426,10 +582,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the decision boundary in linear regression classification?",
+        "back": "The decision boundary is defined by $x^T \\hat{\\beta} = 0.5$."
+      }
+    ]
   },
   "c_1756151260648_jxan58q": {
     "id": "c_1756151260648_jxan58q",
@@ -442,10 +604,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is a mixture of Gaussians in the context of generative models?",
+        "back": "A mixture of Gaussians is a generative model where a discrete variable determines which component Gaussian to use, and then an observation is generated from that density."
+      }
+    ]
   },
   "c_1756151260662_pev3q2n": {
     "id": "c_1756151260662_pev3q2n",
@@ -458,10 +626,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the $k$-nearest neighbor fit for $\\hat{Y}$?",
+        "back": "$$\\hat{Y}(x) = \\frac{1}{k} \\sum_{x_i \\in N_k(x)} y_i$$ where $N_k(x)$ is the set of $k$ closest points to $x$ in the training sample."
+      }
+    ]
   },
   "c_1756151260685_2kntohj": {
     "id": "c_1756151260685_2kntohj",
@@ -474,10 +648,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What metric is typically used for 'closeness' in $k$-nearest neighbor methods?",
+        "back": "Euclidean distance is typically used as the metric for closeness."
+      }
+    ]
   },
   "c_1756151260707_tppyj7m": {
     "id": "c_1756151260707_tppyj7m",
@@ -490,10 +670,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How is class assignment made in $k$-nearest neighbor classification?",
+        "back": "Assign the class by majority vote among the $k$ nearest neighbors."
+      }
+    ]
   },
   "c_1756151260721_xvw1l4t": {
     "id": "c_1756151260721_xvw1l4t",
@@ -506,10 +692,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is a Voronoi tessellation in the context of 1-nearest neighbor classification?",
+        "back": "A Voronoi tessellation partitions the input space so that each region contains all points closest to a particular training point."
+      }
+    ]
   },
   "c_1756151260749_sctfxvz": {
     "id": "c_1756151260749_sctfxvz",
@@ -522,10 +714,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How does the training error of $k$-nearest neighbor fits change with $k$?",
+        "back": "Training error increases with $k$ and is always 0 for $k = 1$."
+      }
+    ]
   },
   "c_1756151260765_kkzt2e9": {
     "id": "c_1756151260765_kkzt2e9",
@@ -538,10 +736,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the effective number of parameters in $k$-nearest neighbor methods?",
+        "back": "The effective number of parameters is $N/k$ and decreases as $k$ increases."
+      }
+    ]
   },
   "c_1756151260795_bysnx2n": {
     "id": "c_1756151260795_bysnx2n",
@@ -554,10 +758,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "Why can't sum-of-squared errors on the training set be used to pick $k$ in $k$-nearest neighbor methods?",
+        "back": "Because it would always select $k = 1$, which overfits the training data."
+      }
+    ]
   },
   "c_1756151260805_zig36sr": {
     "id": "c_1756151260805_zig36sr",
@@ -570,10 +780,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the bias–variance tradeoff in the context of linear models and $k$-nearest neighbor methods?",
+        "back": "Linear models have low variance and potentially high bias, while $k$-nearest neighbor methods have high variance and low bias."
+      }
+    ]
   },
   "c_1756151260817_oc77dbp": {
     "id": "c_1756151260817_oc77dbp",
@@ -586,10 +802,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the expected prediction error (EPE) for squared error loss?",
+        "back": "$$EPE(f) = E(Y - f(X))^2$$"
+      }
+    ]
   },
   "c_1756151260828_pftjnrx": {
     "id": "c_1756151260828_pftjnrx",
@@ -602,10 +824,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the regression function in statistical decision theory?",
+        "back": "The regression function is $f(x) = E(Y | X = x)$, the conditional expectation of $Y$ given $X = x$."
+      }
+    ]
   },
   "c_1756151260840_mivemml": {
     "id": "c_1756151260840_mivemml",
@@ -618,10 +846,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How do nearest-neighbor methods approximate the regression function?",
+        "back": "By averaging the $y_i$ values for the $k$ nearest $x_i$ to $x$, i.e., $\\hat{f}(x) = \\text{Ave}(y_i | x_i \\in N_k(x))$."
+      }
+    ]
   },
   "c_1756151260872_f8flh54": {
     "id": "c_1756151260872_f8flh54",
@@ -634,10 +868,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the linear model assumption for the regression function?",
+        "back": "$$f(x) \\approx x^T \\beta$$"
+      }
+    ]
   },
   "c_1756151260909_4ygn90j": {
     "id": "c_1756151260909_4ygn90j",
@@ -650,10 +890,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the theoretical solution for $\\beta$ in the linear model?",
+        "back": "$$\\beta = [E(XX^T)]^{-1}E(XY)$$"
+      }
+    ]
   },
   "c_1756151260921_s9j0utw": {
     "id": "c_1756151260921_s9j0utw",
@@ -666,10 +912,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the difference in model assumptions between least squares and $k$-nearest neighbors?",
+        "back": "Least squares assumes $f(x)$ is globally linear; $k$-nearest neighbors assumes $f(x)$ is locally constant."
+      }
+    ]
   },
   "c_1756151260934_0hpl9qb": {
     "id": "c_1756151260934_0hpl9qb",
@@ -682,10 +934,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the solution for $f(x)$ under $L_1$ loss?",
+        "back": "The solution is the conditional median: $\\hat{f}(x) = \\text{median}(Y | X = x)$."
+      }
+    ]
   },
   "c_1756151260945_ue0kyww": {
     "id": "c_1756151260945_ue0kyww",
@@ -698,10 +956,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the zero–one loss function in classification?",
+        "back": "A loss function where all misclassifications are charged a single unit; $L$ is zero on the diagonal and one elsewhere."
+      }
+    ]
   },
   "c_1756151260959_vvmwdl6": {
     "id": "c_1756151260959_vvmwdl6",
@@ -714,10 +978,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the Bayes classifier?",
+        "back": "The Bayes classifier assigns $X$ to the class with the highest conditional probability: $\\hat{G}(X) = G_k$ if $\\Pr(G_k | X = x)$ is maximal."
+      }
+    ]
   },
   "c_1756151260979_rjov6dp": {
     "id": "c_1756151260979_rjov6dp",
@@ -730,10 +1000,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the Bayes rate?",
+        "back": "The Bayes rate is the error rate of the Bayes classifier."
+      }
+    ]
   },
   "c_1756151260991_ogjrmt4": {
     "id": "c_1756151260991_ogjrmt4",
@@ -746,10 +1022,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How does $k$-nearest neighbor classification approximate the Bayes classifier?",
+        "back": "By using a majority vote in a neighborhood, which estimates conditional probabilities by sample proportions."
+      }
+    ]
   },
   "c_1756151261035_f6h3ehm": {
     "id": "c_1756151261035_f6h3ehm",
@@ -762,10 +1044,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How does dummy-variable regression relate to the Bayes classifier?",
+        "back": "Dummy-variable regression followed by classification to the largest fitted value is another way of representing the Bayes classifier."
+      }
+    ]
   },
   "c_1756151261053_kt66yb9": {
     "id": "c_1756151261053_kt66yb9",
@@ -778,10 +1066,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the curse of dimensionality?",
+        "back": "In high dimensions, local neighborhoods become large, and data become sparse, making local methods like $k$-nearest neighbors ineffective."
+      }
+    ]
   },
   "c_1756151261066_m341im6": {
     "id": "c_1756151261066_m341im6",
@@ -794,10 +1088,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How does the edge length of a subcube needed to capture a fraction $r$ of the data scale with dimension $p$?",
+        "back": "The edge length is $e_p(r) = r^{1/p}$, which increases rapidly with $p$."
+      }
+    ]
   },
   "c_1756151261095_jxoxz31": {
     "id": "c_1756151261095_jxoxz31",
@@ -810,10 +1110,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the median distance from the origin to the closest data point in a $p$-dimensional unit ball with $N$ points?",
+        "back": "$$d(p, N) = \\left(1 - \\frac{1}{2^{1/N}}\\right)^{1/p}$$"
+      }
+    ]
   },
   "c_1756151261104_6ornzjx": {
     "id": "c_1756151261104_6ornzjx",
@@ -826,10 +1132,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How does the required sample size scale with dimension to maintain the same sampling density?",
+        "back": "The required sample size scales as $N^{1/p}$; for example, $N_{10} = 100^{10}$ for 10 inputs if $N_1 = 100$ for one input."
+      }
+    ]
   },
   "c_1756151261149_8km0twf": {
     "id": "c_1756151261149_8km0twf",
@@ -842,10 +1154,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the bias–variance decomposition of mean squared error (MSE)?",
+        "back": "$$MSE(x_0) = Var_T(\\hat{y}_0) + Bias^2(\\hat{y}_0)$$"
+      }
+    ]
   },
   "c_1756151261206_i5m8xck": {
     "id": "c_1756151261206_i5m8xck",
@@ -858,10 +1176,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How does the mean squared error (MSE) of 1-nearest neighbor estimation behave as dimension increases?",
+        "back": "As dimension increases, both bias and variance increase, and the MSE levels off at 1.0 in the given example."
+      }
+    ]
   },
   "c_1756151261230_bh57382": {
     "id": "c_1756151261230_bh57382",
@@ -874,10 +1198,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How does the expected prediction error (EPE) for least squares grow with dimension?",
+        "back": "The expected EPE increases linearly with $p$, with slope $\\sigma^2/N$."
+      }
+    ]
   },
   "c_1756151261263_x6c9ujm": {
     "id": "c_1756151261263_x6c9ujm",
@@ -890,10 +1220,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How does the relative EPE of 1-nearest neighbor to least squares behave for linear and cubic models as dimension increases?",
+        "back": "For the linear model, the ratio increases with dimension; for the cubic model, the ratio increases more gradually."
+      }
+    ]
   },
   "c_1756151261291_lpfduy5": {
     "id": "c_1756151261291_lpfduy5",
@@ -906,10 +1242,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the general form of the additive error model?",
+        "back": "$$Y = f(X) + \\epsilon$$ where $E(\\epsilon) = 0$ and $\\epsilon$ is independent of $X$."
+      }
+    ]
   },
   "c_1756151261301_b22qbt6": {
     "id": "c_1756151261301_b22qbt6",
@@ -922,10 +1264,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the conditional mean in the additive error model?",
+        "back": "The conditional mean is $f(x) = E(Y | X = x)$. The conditional distribution $Pr(Y | X)$ depends on $X$ only through $f(x)$."
+      }
+    ]
   },
   "c_1756151261319_0n566xk": {
     "id": "c_1756151261319_0n566xk",
@@ -938,10 +1286,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How is the variance of a binary coded qualitative output $Y$ related to $p(x)$?",
+        "back": "$$Var(Y | X = x) = p(x)[1 - p(x)]$$"
+      }
+    ]
   },
   "c_1756151261338_ftebjte": {
     "id": "c_1756151261338_ftebjte",
@@ -954,10 +1308,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is supervised learning from a machine learning perspective?",
+        "back": "Supervised learning attempts to learn $f$ by example through a teacher, using a training set of input-output pairs and a learning algorithm that adjusts $f$ based on errors."
+      }
+    ]
   },
   "c_1756151261391_pl7aaqx": {
     "id": "c_1756151261391_pl7aaqx",
@@ -970,10 +1330,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the function approximation perspective on supervised learning?",
+        "back": "Supervised learning is viewed as approximating a function $f(x)$ relating inputs to outputs, often using models like $y_i = f(x_i) + \\epsilon_i$."
+      }
+    ]
   },
   "c_1756151261410_s9oqlba": {
     "id": "c_1756151261410_s9oqlba",
@@ -986,10 +1352,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is a linear basis expansion?",
+        "back": "$$f_\\theta(x) = \\sum_{k=1}^{K} h_k(x) \\theta_k$$ where $h_k$ are functions of $x$ and $\\theta_k$ are parameters."
+      }
+    ]
   },
   "c_1756151261439_u7wqref": {
     "id": "c_1756151261439_u7wqref",
@@ -1002,10 +1374,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the sigmoid transformation commonly used in neural networks?",
+        "back": "$$h_k(x) = \\frac{1}{1 + \\exp(-x^T \\beta_k)}$$"
+      }
+    ]
   },
   "c_1756151261481_fkos9ge": {
     "id": "c_1756151261481_fkos9ge",
@@ -1018,10 +1396,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How are parameters estimated in basis function models using least squares?",
+        "back": "By minimizing the residual sum-of-squares: $$RSS(\\theta) = \\sum_{i=1}^{N} (y_i - f_\\theta(x_i))^2$$"
+      }
+    ]
   },
   "c_1756151261495_ljz73eq": {
     "id": "c_1756151261495_ljz73eq",
@@ -1034,10 +1418,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the principle of maximum likelihood estimation?",
+        "back": "Maximum likelihood estimation chooses parameter values $\\theta$ that maximize the probability (likelihood) of the observed data."
+      }
+    ]
   },
   "c_1756151261513_7aija1e": {
     "id": "c_1756151261513_7aija1e",
@@ -1050,10 +1440,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the log-likelihood for a sample from a density $P_\\theta(y)$?",
+        "back": "$$L(\\theta) = \\sum_{i=1}^{N} \\log P_\\theta(y_i)$$"
+      }
+    ]
   },
   "c_1756151261556_b05b1e6": {
     "id": "c_1756151261556_b05b1e6",
@@ -1066,10 +1462,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How is least squares related to maximum likelihood for the additive error model with normal errors?",
+        "back": "Least squares is equivalent to maximum likelihood when errors are normal: $P(Y | X, \\theta) = N(f_\\theta(X), \\sigma^2)$."
+      }
+    ]
   },
   "c_1756151261577_fxc59ul": {
     "id": "c_1756151261577_fxc59ul",
@@ -1082,10 +1484,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the log-likelihood for the multinomial regression function $P(G | X)$?",
+        "back": "$$L(\\theta) = \\sum_{i=1}^{N} \\log p_{g_i, \\theta}(x_i)$$"
+      }
+    ]
   },
   "c_1756151261586_y9ze3w3": {
     "id": "c_1756151261586_y9ze3w3",
@@ -1098,10 +1506,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "Why must we restrict the class of functions when minimizing $RSS(f)$?",
+        "back": "Without restrictions, there are infinitely many solutions passing through the training points, many of which may not generalize well."
+      }
+    ]
   },
   "c_1756151261606_sjlqqfg": {
     "id": "c_1756151261606_sjlqqfg",
@@ -1114,10 +1528,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is a complexity restriction in learning methods?",
+        "back": "A complexity restriction imposes regular behavior (e.g., nearly constant, linear, or low-order polynomial) in small neighborhoods of input space."
+      }
+    ]
   },
   "c_1756151261623_ealj2pe": {
     "id": "c_1756151261623_ealj2pe",
@@ -1130,10 +1550,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How does neighborhood size affect the strength of the constraint in local methods?",
+        "back": "Larger neighborhoods impose stronger constraints and more global structure; smaller neighborhoods allow more local flexibility."
+      }
+    ]
   },
   "c_1756151261632_d7ubji0": {
     "id": "c_1756151261632_d7ubji0",
@@ -1146,10 +1572,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is an equivalent kernel?",
+        "back": "An equivalent kernel describes the local dependence for any method linear in the outputs, often resembling a weighting kernel peaked at the target point."
+      }
+    ]
   },
   "c_1756151261680_mn6qpa1": {
     "id": "c_1756151261680_mn6qpa1",
@@ -1162,10 +1594,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "Why do locally varying functions in small isotropic neighborhoods fail in high dimensions?",
+        "back": "Because of the curse of dimensionality: neighborhoods become too large to be local, and data become sparse."
+      }
+    ]
   },
   "c_1756151261691_5n0q4k4": {
     "id": "c_1756151261691_5n0q4k4",
@@ -1178,10 +1616,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What are the three broad classes of nonparametric regression techniques?",
+        "back": "1. Roughness penalty and Bayesian methods\n2. Kernel methods and local regression\n3. Basis functions and dictionary methods"
+      }
+    ]
   },
   "c_1756151261718_14jys3s": {
     "id": "c_1756151261718_14jys3s",
@@ -1194,10 +1638,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is a roughness penalty in regression?",
+        "back": "A roughness penalty adds a term $\\lambda J(f)$ to the residual sum of squares to penalize functions that vary too rapidly."
+      }
+    ]
   },
   "c_1756151261751_xp4dezm": {
     "id": "c_1756151261751_xp4dezm",
@@ -1210,10 +1660,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the penalized least-squares criterion for cubic smoothing splines?",
+        "back": "$$PRSS(f; \\lambda) = \\sum_{i=1}^{N} (y_i - f(x_i))^2 + \\lambda \\int [f''(x)]^2 dx$$"
+      }
+    ]
   },
   "c_1756151261764_q504yrh": {
     "id": "c_1756151261764_q504yrh",
@@ -1226,10 +1682,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How can penalty functionals be interpreted in a Bayesian framework?",
+        "back": "The penalty $J$ corresponds to a log-prior, and minimizing $PRSS(f; \\lambda)$ is equivalent to finding the posterior mode."
+      }
+    ]
   },
   "c_1756151261782_z4t1c9s": {
     "id": "c_1756151261782_z4t1c9s",
@@ -1242,10 +1704,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is a kernel function in local regression?",
+        "back": "A kernel function $K_\\lambda(x_0, x)$ assigns weights to points $x$ near $x_0$, often based on distance, to define a local neighborhood."
+      }
+    ]
   },
   "c_1756151261805_y8ayu1y": {
     "id": "c_1756151261805_y8ayu1y",
@@ -1258,10 +1726,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the Gaussian kernel function?",
+        "back": "$$K_\\lambda(x_0, x) = \\frac{1}{\\lambda} \\exp\\left[-\\frac{||x - x_0||^2}{2\\lambda}\\right]$$"
+      }
+    ]
   },
   "c_1756151261825_s8afovz": {
     "id": "c_1756151261825_s8afovz",
@@ -1274,10 +1748,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the Nadaraya–Watson kernel regression estimate?",
+        "back": "$$\\hat{f}(x_0) = \\frac{\\sum_{i=1}^N K_\\lambda(x_0, x_i) y_i}{\\sum_{i=1}^N K_\\lambda(x_0, x_i)}$$"
+      }
+    ]
   },
   "c_1756151261845_lety9w6": {
     "id": "c_1756151261845_lety9w6",
@@ -1290,10 +1770,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How is a local regression estimate defined in general?",
+        "back": "As $\\hat{f}_\\theta(x_0)$, where $\\hat{\\theta}$ minimizes $$RSS(\\hat{f}_\\theta, x_0) = \\sum_{i=1}^N K_\\lambda(x_0, x_i)(y_i - \\hat{f}_\\theta(x_i))^2$$"
+      }
+    ]
   },
   "c_1756151261869_kjg9fh3": {
     "id": "c_1756151261869_kjg9fh3",
@@ -1306,10 +1792,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How can nearest-neighbor methods be viewed as kernel methods?",
+        "back": "They use a data-dependent metric: $K_k(x, x_0) = I(||x - x_0|| \\leq ||x^{(k)} - x_0||)$, where $x^{(k)}$ is the $k$th nearest neighbor."
+      }
+    ]
   },
   "c_1756151261885_ytm18lf": {
     "id": "c_1756151261885_ytm18lf",
@@ -1322,10 +1814,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is a basis function model?",
+        "back": "$$\\hat{f}(x) = \\sum_{m=1}^M \\theta_m h_m(x)$$ where $h_m$ are basis functions and $\\theta_m$ are parameters."
+      }
+    ]
   },
   "c_1756151261916_qckl4mn": {
     "id": "c_1756151261916_qckl4mn",
@@ -1338,10 +1836,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is a spline basis function?",
+        "back": "A spline basis function is used to construct piecewise polynomial functions joined with continuity at knots, e.g., $b_{m+2}(x) = (x - t_m)_+$."
+      }
+    ]
   },
   "c_1756151261932_pq005m8": {
     "id": "c_1756151261932_pq005m8",
@@ -1354,10 +1858,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is a radial basis function?",
+        "back": "A radial basis function is a symmetric $p$-dimensional kernel located at a centroid, e.g., $K_\\lambda(\\mu, x) = e^{-\\frac{||x - \\mu||^2}{2\\lambda}}$."
+      }
+    ]
   },
   "c_1756151261973_sp2ymxj": {
     "id": "c_1756151261973_sp2ymxj",
@@ -1370,10 +1880,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is a single-layer feed-forward neural network model?",
+        "back": "$$f_\\theta(x) = \\sum_{m=1}^{M} \\beta_m \\sigma(\\alpha_m^T x + b_m)$$ where $\\sigma(x) = \\frac{1}{1 + e^{-x}}$ is the activation function."
+      }
+    ]
   },
   "c_1756151261993_arf1xxr": {
     "id": "c_1756151261993_arf1xxr",
@@ -1386,10 +1902,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is a dictionary method in function approximation?",
+        "back": "A dictionary method builds models by selecting basis functions from a (possibly infinite) set of candidate functions using a search mechanism."
+      }
+    ]
   },
   "c_1756151262032_d7b2qrv": {
     "id": "c_1756151262032_d7b2qrv",
@@ -1402,10 +1924,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is a smoothing or complexity parameter in model selection?",
+        "back": "A parameter that controls the effective size of the local neighborhood or the complexity of the model, such as the penalty multiplier, kernel width, or number of basis functions."
+      }
+    ]
   },
   "c_1756151262082_j7q2u00": {
     "id": "c_1756151262082_j7q2u00",
@@ -1418,10 +1946,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "Why can't training error be used to select model complexity?",
+        "back": "Because it always decreases with increased complexity and does not account for overfitting, leading to poor generalization."
+      }
+    ]
   },
   "c_1756151262132_az7m0gz": {
     "id": "c_1756151262132_az7m0gz",
@@ -1434,10 +1968,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the bias–variance tradeoff?",
+        "back": "As model complexity increases, variance increases and bias decreases; as complexity decreases, variance decreases and bias increases. The optimal model balances these to minimize test error."
+      }
+    ]
   },
   "c_1756151262163_4ei1nmc": {
     "id": "c_1756151262163_4ei1nmc",
@@ -1450,10 +1990,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the expected prediction error (EPE) for $k$-nearest neighbor regression at $x_0$?",
+        "back": "$$EPE_k(x_0) = \\sigma^2 + \\left[f(x_0) - \\frac{1}{k} \\sum_{\\ell=1}^k f(x_{(\\ell)})\\right]^2$$"
+      }
+    ]
   },
   "c_1756151262176_6jlxp2y": {
     "id": "c_1756151262176_6jlxp2y",
@@ -1466,10 +2012,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the irreducible error in prediction?",
+        "back": "The irreducible error is the variance of the new test target, $\\sigma^2$, which cannot be reduced by any model."
+      }
+    ]
   },
   "c_1756151262204_2fnuyq5": {
     "id": "c_1756151262204_2fnuyq5",
@@ -1482,10 +2034,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How does the bias term behave as $k$ increases in $k$-nearest neighbor regression?",
+        "back": "The bias term generally increases with $k$ if the true function is smooth, because neighbors are further from $x_0$."
+      }
+    ]
   },
   "c_1756151262244_88zm4e0": {
     "id": "c_1756151262244_88zm4e0",
@@ -1498,10 +2056,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "How does the variance term behave as $k$ increases in $k$-nearest neighbor regression?",
+        "back": "The variance term decreases as the inverse of $k$."
+      }
+    ]
   },
   "c_1756151262286_nyh9eu0": {
     "id": "c_1756151262286_nyh9eu0",
@@ -1514,10 +2078,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is overfitting in the context of model complexity?",
+        "back": "Overfitting occurs when a model is too complex and adapts too closely to the training data, resulting in poor generalization and high test error."
+      }
+    ]
   },
   "c_1756151262315_mtx4nw9": {
     "id": "c_1756151262315_mtx4nw9",
@@ -1530,10 +2100,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is underfitting in the context of model complexity?",
+        "back": "Underfitting occurs when a model is not complex enough, resulting in high bias and poor generalization."
+      }
+    ]
   },
   "c_1756151262387_ale4qte": {
     "id": "c_1756151262387_ale4qte",
@@ -1546,10 +2122,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main goal in model selection regarding bias and variance?",
+        "back": "To choose model complexity that trades off bias and variance to minimize test (generalization) error."
+      }
+    ]
   },
   "c_1756151262404_spwuq83": {
     "id": "c_1756151262404_spwuq83",
@@ -1562,10 +2144,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main limitation of using training error to estimate test error?",
+        "back": "Training error does not account for model complexity and tends to underestimate test error, especially for complex models."
+      }
+    ]
   },
   "c_1756151262415_b5ddupd": {
     "id": "c_1756151262415_b5ddupd",
@@ -1578,10 +2166,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind regularization methods?",
+        "back": "Regularization methods add a penalty to the loss function to control model complexity and prevent overfitting."
+      }
+    ]
   },
   "c_1756151262452_ojaorwt": {
     "id": "c_1756151262452_ojaorwt",
@@ -1594,10 +2188,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the purpose of smoothing parameters in nonparametric regression?",
+        "back": "Smoothing parameters control the effective size of the local neighborhood or the complexity of the fitted function."
+      }
+    ]
   },
   "c_1756151262501_oyl9yij": {
     "id": "c_1756151262501_oyl9yij",
@@ -1610,10 +2210,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main challenge of local methods in high dimensions?",
+        "back": "In high dimensions, local neighborhoods become large and data become sparse, making local averaging ineffective (curse of dimensionality)."
+      }
+    ]
   },
   "c_1756151262559_0wnzywo": {
     "id": "c_1756151262559_0wnzywo",
@@ -1626,10 +2232,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main advantage of structured regression models over local methods?",
+        "back": "Structured regression models can make more efficient use of data, especially in high dimensions or when special structure is known to exist."
+      }
+    ]
   },
   "c_1756151262570_95ekqoh": {
     "id": "c_1756151262570_95ekqoh",
@@ -1642,10 +2254,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main tradeoff in choosing the size of the local neighborhood in local regression?",
+        "back": "A larger neighborhood increases bias but reduces variance; a smaller neighborhood reduces bias but increases variance."
+      }
+    ]
   },
   "c_1756151262580_zlzq6xs": {
     "id": "c_1756151262580_zlzq6xs",
@@ -1658,10 +2276,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind additive models?",
+        "back": "Additive models assume $f(X) = \\sum_{j=1}^{p} f_j(X_j)$, retaining additivity but allowing each coordinate function to be arbitrary."
+      }
+    ]
   },
   "c_1756151262604_7o35h1f": {
     "id": "c_1756151262604_7o35h1f",
@@ -1674,10 +2298,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main limitation of interpolating fits in regression?",
+        "back": "Interpolating fits pass through all training points but may generalize poorly to new data."
+      }
+    ]
   },
   "c_1756151262621_10xlcgv": {
     "id": "c_1756151262621_10xlcgv",
@@ -1690,10 +2320,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main purpose of basis function expansions in regression?",
+        "back": "Basis function expansions allow for flexible modeling by representing the function as a sum of transformed inputs."
+      }
+    ]
   },
   "c_1756151262646_lyb35ga": {
     "id": "c_1756151262646_lyb35ga",
@@ -1706,10 +2342,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main challenge in determining the centroids and scales in radial basis function models?",
+        "back": "Including centroids and scales as parameters makes the regression problem combinatorially hard and nonlinear."
+      }
+    ]
   },
   "c_1756151262664_zpa3ess": {
     "id": "c_1756151262664_zpa3ess",
@@ -1722,10 +2364,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind dictionary methods?",
+        "back": "Dictionary methods build models by selecting basis functions from a large or infinite set using a search mechanism."
+      }
+    ]
   },
   "c_1756151262678_l8vzuow": {
     "id": "c_1756151262678_l8vzuow",
@@ -1738,10 +2386,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind projection pursuit regression models?",
+        "back": "Projection pursuit regression models have $f(X) = \\sum_{m=1}^{M} g_m(\\alpha_m X)$ for adaptively chosen directions $\\alpha_m$ and functions $g_m$."
+      }
+    ]
   },
   "c_1756151262686_17qxtp6": {
     "id": "c_1756151262686_17qxtp6",
@@ -1754,10 +2408,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind local linear regression?",
+        "back": "Local linear regression fits a linear model in a neighborhood of each target point, using weighted least squares."
+      }
+    ]
   },
   "c_1756151262720_jr5kbw2": {
     "id": "c_1756151262720_jr5kbw2",
@@ -1770,10 +2430,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind kernel methods in high dimensions?",
+        "back": "Kernel methods must be adapted in high dimensions to avoid the curse of dimensionality, often by modifying the metric or kernel width."
+      }
+    ]
   },
   "c_1756151262746_q7t0u55": {
     "id": "c_1756151262746_q7t0u55",
@@ -1786,10 +2452,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind maximum likelihood estimation for qualitative outputs?",
+        "back": "Maximum likelihood estimation maximizes the log-likelihood (cross-entropy) of the observed class labels given the model probabilities."
+      }
+    ]
   },
   "c_1756151262790_qjbpc11": {
     "id": "c_1756151262790_qjbpc11",
@@ -1802,10 +2474,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the bias–variance decomposition?",
+        "back": "The mean squared error can be decomposed into variance (due to sampling) and squared bias (systematic error from the estimator)."
+      }
+    ]
   },
   "c_1756151262851_ldglgfh": {
     "id": "c_1756151262851_ldglgfh",
@@ -1818,10 +2496,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind model selection in supervised learning?",
+        "back": "Model selection involves choosing the complexity parameter to balance bias and variance, aiming to minimize test error."
+      }
+    ]
   },
   "c_1756151262888_r25dq4g": {
     "id": "c_1756151262888_r25dq4g",
@@ -1834,10 +2518,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the test and training error curves as model complexity increases?",
+        "back": "Training error decreases with complexity, but test error decreases then increases, indicating overfitting at high complexity."
+      }
+    ]
   },
   "c_1756151262900_tmt6w3q": {
     "id": "c_1756151262900_tmt6w3q",
@@ -1850,10 +2540,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the irreducible error in prediction?",
+        "back": "The irreducible error is the part of prediction error that cannot be reduced by any model, due to inherent noise in the data."
+      }
+    ]
   },
   "c_1756151262939_o2uo8wr": {
     "id": "c_1756151262939_o2uo8wr",
@@ -1866,10 +2562,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the variance term in prediction error?",
+        "back": "The variance term reflects the sensitivity of the model to the particular training sample and increases with model complexity."
+      }
+    ]
   },
   "c_1756151262979_4g228n3": {
     "id": "c_1756151262979_4g228n3",
@@ -1882,10 +2584,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the bias term in prediction error?",
+        "back": "The bias term measures the systematic error from approximating the true function with the model; it increases as model complexity decreases."
+      }
+    ]
   },
   "c_1756151263017_auo1g0w": {
     "id": "c_1756151263017_auo1g0w",
@@ -1898,10 +2606,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind overfitting and underfitting?",
+        "back": "Overfitting occurs with too much model complexity (high variance), underfitting with too little (high bias); both lead to poor generalization."
+      }
+    ]
   },
   "c_1756151263035_c1b5sc4": {
     "id": "c_1756151263035_c1b5sc4",
@@ -1914,10 +2628,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of additive penalties in additive models?",
+        "back": "Additive penalties allow for smoothness control of each coordinate function in additive models."
+      }
+    ]
   },
   "c_1756151263063_hqcr6ib": {
     "id": "c_1756151263063_hqcr6ib",
@@ -1930,10 +2650,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of tensor products of spline bases?",
+        "back": "Tensor products of spline bases allow for flexible modeling of functions with inputs of dimension greater than one."
+      }
+    ]
   },
   "c_1756151263169_i8cw5eq": {
     "id": "c_1756151263169_i8cw5eq",
@@ -1946,10 +2672,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind greedy algorithms in basis function selection?",
+        "back": "Greedy algorithms iteratively select basis functions to build up a model, making the problem tractable."
+      }
+    ]
   },
   "c_1756151263182_w2572fn": {
     "id": "c_1756151263182_w2572fn",
@@ -1962,10 +2694,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the activation function in neural networks?",
+        "back": "The activation function (e.g., sigmoid) introduces nonlinearity into the neural network model."
+      }
+    ]
   },
   "c_1756151263195_kqauh7s": {
     "id": "c_1756151263195_kqauh7s",
@@ -1978,10 +2716,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the cross-entropy loss in classification?",
+        "back": "Cross-entropy loss measures the discrepancy between the predicted probabilities and the actual class labels, and is used in maximum likelihood estimation for classification."
+      }
+    ]
   },
   "c_1756151263204_plqwhz2": {
     "id": "c_1756151263204_plqwhz2",
@@ -1994,10 +2738,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of local polynomial regression?",
+        "back": "Local polynomial regression fits a polynomial model in a neighborhood of each target point, allowing for more flexible local fits."
+      }
+    ]
   },
   "c_1756151263220_fb2cyrj": {
     "id": "c_1756151263220_fb2cyrj",
@@ -2010,10 +2760,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of indicator functions in kernel methods?",
+        "back": "Indicator functions define hard boundaries for neighborhoods, as in $k$-nearest neighbor methods."
+      }
+    ]
   },
   "c_1756151263252_b1gohz4": {
     "id": "c_1756151263252_b1gohz4",
@@ -2026,10 +2782,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of smoothing splines?",
+        "back": "Smoothing splines fit a smooth curve to data by minimizing a penalized sum of squared errors, controlling smoothness via a penalty on the second derivative."
+      }
+    ]
   },
   "c_1756151263277_9bugsh9": {
     "id": "c_1756151263277_9bugsh9",
@@ -2042,10 +2804,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of cross-validation in model selection?",
+        "back": "Cross-validation estimates test error by partitioning the data and evaluating model performance on unseen data, helping to select optimal model complexity."
+      }
+    ]
   },
   "c_1756151263292_p2za9do": {
     "id": "c_1756151263292_p2za9do",
@@ -2058,10 +2826,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of regularization in high-dimensional settings?",
+        "back": "Regularization helps prevent overfitting and manage the curse of dimensionality by imposing constraints on model complexity."
+      }
+    ]
   },
   "c_1756151263324_02ta3lx": {
     "id": "c_1756151263324_02ta3lx",
@@ -2074,10 +2848,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of local constant fits in regression?",
+        "back": "Local constant fits assume the function is approximately constant in a small neighborhood, as in $k$-nearest neighbor methods."
+      }
+    ]
   },
   "c_1756151263345_i5woh54": {
     "id": "c_1756151263345_i5woh54",
@@ -2090,10 +2870,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of local linear fits in regression?",
+        "back": "Local linear fits assume the function is approximately linear in a small neighborhood, providing more flexibility than local constant fits."
+      }
+    ]
   },
   "c_1756151263368_p9xeb0y": {
     "id": "c_1756151263368_p9xeb0y",
@@ -2106,10 +2892,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of projection pursuit in regression?",
+        "back": "Projection pursuit models the function as a sum of functions of linear combinations of the inputs, allowing for flexible modeling of complex relationships."
+      }
+    ]
   },
   "c_1756151263399_h7ip84y": {
     "id": "c_1756151263399_h7ip84y",
@@ -2122,10 +2914,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of smoothing parameters in splines?",
+        "back": "Smoothing parameters control the tradeoff between fit and smoothness in spline models."
+      }
+    ]
   },
   "c_1756151263415_6x6xg26": {
     "id": "c_1756151263415_6x6xg26",
@@ -2138,10 +2936,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of basis expansions in high dimensions?",
+        "back": "Basis expansions allow for flexible modeling, but require careful selection of basis functions and regularization to avoid overfitting in high dimensions."
+      }
+    ]
   },
   "c_1756151263426_yhgvn05": {
     "id": "c_1756151263426_yhgvn05",
@@ -2154,10 +2958,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of additive models to overcome the curse of dimensionality?",
+        "back": "Additive models reduce the complexity of estimating high-dimensional functions by assuming the function is a sum of univariate functions."
+      }
+    ]
   },
   "c_1756151263433_2vt0p66": {
     "id": "c_1756151263433_2vt0p66",
@@ -2170,10 +2980,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of local regression in nonparametric estimation?",
+        "back": "Local regression fits simple models (e.g., constant or linear) in neighborhoods of each target point, allowing for flexible, data-driven estimation."
+      }
+    ]
   },
   "c_1756151263445_1343ycc": {
     "id": "c_1756151263445_1343ycc",
@@ -2186,10 +3002,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of regularization to express prior beliefs?",
+        "back": "Regularization encodes prior beliefs about the smoothness or structure of the function being estimated."
+      }
+    ]
   },
   "c_1756151263458_69nziga": {
     "id": "c_1756151263458_69nziga",
@@ -2202,10 +3024,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of maximum likelihood estimation in regression?",
+        "back": "Maximum likelihood estimation chooses parameters that maximize the probability of the observed data under the model."
+      }
+    ]
   },
   "c_1756151263469_8xn6de4": {
     "id": "c_1756151263469_8xn6de4",
@@ -2218,10 +3046,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of cross-entropy loss in classification?",
+        "back": "Cross-entropy loss measures the fit between predicted probabilities and actual class labels, and is minimized in maximum likelihood estimation."
+      }
+    ]
   },
   "c_1756151263475_3rnk3if": {
     "id": "c_1756151263475_3rnk3if",
@@ -2234,10 +3068,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of smoothing parameters in kernel methods?",
+        "back": "Smoothing parameters (e.g., kernel width) control the size of the neighborhood and the tradeoff between bias and variance."
+      }
+    ]
   },
   "c_1756151263483_2ee34dg": {
     "id": "c_1756151263483_2ee34dg",
@@ -2250,10 +3090,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of model complexity parameters in basis function models?",
+        "back": "Model complexity parameters (e.g., number of basis functions) control the flexibility of the model and the risk of overfitting."
+      }
+    ]
   },
   "c_1756151263506_0h1db7w": {
     "id": "c_1756151263506_0h1db7w",
@@ -2266,10 +3112,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of test error for model selection?",
+        "back": "Test error provides an unbiased estimate of model performance on new data and is used to select optimal model complexity."
+      }
+    ]
   },
   "c_1756151263523_qdde98u": {
     "id": "c_1756151263523_qdde98u",
@@ -2282,10 +3134,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of training error for model selection?",
+        "back": "Training error tends to underestimate test error and is not reliable for selecting model complexity."
+      }
+    ]
   },
   "c_1756151263529_rqdig9r": {
     "id": "c_1756151263529_rqdig9r",
@@ -2298,10 +3156,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of local neighborhoods in nonparametric regression?",
+        "back": "Local neighborhoods allow for flexible, data-driven estimation by focusing on points near the target input."
+      }
+    ]
   },
   "c_1756151263550_21i7xm0": {
     "id": "c_1756151263550_21i7xm0",
@@ -2314,10 +3178,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of penalty functionals in regularization?",
+        "back": "Penalty functionals impose smoothness or structure on the estimated function, helping to prevent overfitting."
+      }
+    ]
   },
   "c_1756151263611_12dn24h": {
     "id": "c_1756151263611_12dn24h",
@@ -2330,10 +3200,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of additive penalties in projection pursuit regression?",
+        "back": "Additive penalties control the smoothness of each component function in projection pursuit models."
+      }
+    ]
   },
   "c_1756151263726_7qwtcae": {
     "id": "c_1756151263726_7qwtcae",
@@ -2346,10 +3222,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of local constant and local linear fits in kernel regression?",
+        "back": "Local constant fits average outputs in a neighborhood; local linear fits fit a linear model in the neighborhood, providing more flexibility."
+      }
+    ]
   },
   "c_1756151263746_jpma0mj": {
     "id": "c_1756151263746_jpma0mj",
@@ -2362,10 +3244,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of indicator functions in $k$-nearest neighbor methods?",
+        "back": "Indicator functions define the neighborhood by including only the $k$ closest points to the target input."
+      }
+    ]
   },
   "c_1756151263786_ovq2pqi": {
     "id": "c_1756151263786_ovq2pqi",
@@ -2378,10 +3266,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of basis function selection in high-dimensional models?",
+        "back": "Basis function selection helps manage model complexity and prevent overfitting in high-dimensional settings."
+      }
+    ]
   },
   "c_1756151263805_z745j7m": {
     "id": "c_1756151263805_z745j7m",
@@ -2394,10 +3288,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of adaptive basis function methods?",
+        "back": "Adaptive basis function methods select basis functions based on the data, allowing for flexible and efficient modeling."
+      }
+    ]
   },
   "c_1756151263821_7fbffzt": {
     "id": "c_1756151263821_7fbffzt",
@@ -2410,10 +3310,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of smoothing parameters in additive models?",
+        "back": "Smoothing parameters control the smoothness of each coordinate function, balancing fit and generalization."
+      }
+    ]
   },
   "c_1756151263856_lvob17l": {
     "id": "c_1756151263856_lvob17l",
@@ -2426,10 +3332,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of local regression in high dimensions?",
+        "back": "Local regression must be adapted in high dimensions to avoid the curse of dimensionality, often by modifying the metric or using additive models."
+      }
+    ]
   },
   "c_1756151263903_wpd2n31": {
     "id": "c_1756151263903_wpd2n31",
@@ -2442,10 +3354,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of regularization in neural network models?",
+        "back": "Regularization helps prevent overfitting in neural networks by penalizing large weights or complex structures."
+      }
+    ]
   },
   "c_1756151263931_cp36dd0": {
     "id": "c_1756151263931_cp36dd0",
@@ -2458,10 +3376,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of cross-validation for estimating test error?",
+        "back": "Cross-validation provides an unbiased estimate of test error by evaluating model performance on held-out data."
+      }
+    ]
   },
   "c_1756151263937_6q7wdqn": {
     "id": "c_1756151263937_6q7wdqn",
@@ -2474,10 +3398,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of smoothing parameters in local regression?",
+        "back": "Smoothing parameters control the size of the local neighborhood and the tradeoff between bias and variance."
+      }
+    ]
   },
   "c_1756151263973_0gfgb2x": {
     "id": "c_1756151263973_0gfgb2x",
@@ -2490,10 +3420,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of model complexity parameters in regularization?",
+        "back": "Model complexity parameters control the flexibility of the model and help prevent overfitting."
+      }
+    ]
   },
   "c_1756151264002_5ylpwab": {
     "id": "c_1756151264002_5ylpwab",
@@ -2506,10 +3442,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of test error for selecting smoothing parameters?",
+        "back": "Test error provides a criterion for selecting smoothing parameters that balance bias and variance for optimal generalization."
+      }
+    ]
   },
   "c_1756151264014_5qtgb9t": {
     "id": "c_1756151264014_5qtgb9t",
@@ -2522,10 +3464,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of regularization in basis function models?",
+        "back": "Regularization penalizes large coefficients or complex basis expansions to prevent overfitting."
+      }
+    ]
   },
   "c_1756151264026_z8oq2hv": {
     "id": "c_1756151264026_z8oq2hv",
@@ -2538,10 +3486,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of local regression in additive models?",
+        "back": "Local regression can be used to estimate each coordinate function in additive models, reducing the dimensionality of the estimation problem."
+      }
+    ]
   },
   "c_1756151264053_dh099c1": {
     "id": "c_1756151264053_dh099c1",
@@ -2554,10 +3508,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of cross-entropy loss in multinomial regression?",
+        "back": "Cross-entropy loss measures the fit between predicted class probabilities and actual class labels, and is minimized in maximum likelihood estimation."
+      }
+    ]
   },
   "c_1756151264079_fwz1hwp": {
     "id": "c_1756151264079_fwz1hwp",
@@ -2570,10 +3530,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of smoothing parameters in spline models?",
+        "back": "Smoothing parameters control the tradeoff between fit and smoothness in spline models, affecting generalization."
+      }
+    ]
   },
   "c_1756151264092_yonproj": {
     "id": "c_1756151264092_yonproj",
@@ -2586,10 +3552,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of local regression in projection pursuit models?",
+        "back": "Local regression can be used to estimate each component function in projection pursuit models, allowing for flexible modeling of complex relationships."
+      }
+    ]
   },
   "c_1756151264104_cs9wdbg": {
     "id": "c_1756151264104_cs9wdbg",
@@ -2602,10 +3574,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of regularization in high-dimensional regression?",
+        "back": "Regularization helps manage the curse of dimensionality by imposing constraints on model complexity and preventing overfitting."
+      }
+    ]
   },
   "c_1756151264111_uk1f1t4": {
     "id": "c_1756151264111_uk1f1t4",
@@ -2618,10 +3596,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of local regression in nonparametric estimation?",
+        "back": "Local regression fits simple models in neighborhoods of each target point, allowing for flexible, data-driven estimation."
+      }
+    ]
   },
   "c_1756151264134_qgt372a": {
     "id": "c_1756151264134_qgt372a",
@@ -2634,10 +3618,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of penalty functionals in regularization?",
+        "back": "Penalty functionals impose smoothness or structure on the estimated function, helping to prevent overfitting."
+      }
+    ]
   },
   "c_1756151264200_ufcw9i4": {
     "id": "c_1756151264200_ufcw9i4",
@@ -2650,10 +3640,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of additive penalties in projection pursuit regression?",
+        "back": "Additive penalties control the smoothness of each component function in projection pursuit models."
+      }
+    ]
   },
   "c_1756151264314_1ij03s8": {
     "id": "c_1756151264314_1ij03s8",
@@ -2666,10 +3662,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of local constant and local linear fits in kernel regression?",
+        "back": "Local constant fits average outputs in a neighborhood; local linear fits fit a linear model in the neighborhood, providing more flexibility."
+      }
+    ]
   },
   "c_1756151264333_laf43os": {
     "id": "c_1756151264333_laf43os",
@@ -2682,10 +3684,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of indicator functions in $k$-nearest neighbor methods?",
+        "back": "Indicator functions define the neighborhood by including only the $k$ closest points to the target input."
+      }
+    ]
   },
   "c_1756151264375_hli5sbs": {
     "id": "c_1756151264375_hli5sbs",
@@ -2698,10 +3706,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of basis function selection in high-dimensional models?",
+        "back": "Basis function selection helps manage model complexity and prevent overfitting in high-dimensional settings."
+      }
+    ]
   },
   "c_1756151264397_lox76m2": {
     "id": "c_1756151264397_lox76m2",
@@ -2714,10 +3728,16 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of adaptive basis function methods?",
+        "back": "Adaptive basis function methods select basis functions based on the data, allowing for flexible and efficient modeling."
+      }
+    ]
   },
   "c_1756151264414_e6l28mi": {
     "id": "c_1756151264414_e6l28mi",
@@ -2730,9 +3750,15 @@
     "last_reviewed": null,
     "interval": 0,
     "ease_factor": 2.5,
-    "due": 1756155937005,
+    "due": 1760482214915,
     "blocked": true,
     "review_history": [],
-    "suspended": false
+    "suspended": false,
+    "variants": [
+      {
+        "front": "What is the main idea behind the use of smoothing parameters in additive models?",
+        "back": "Smoothing parameters control the smoothness of each coordinate function, balancing fit and generalization."
+      }
+    ]
   }
 }

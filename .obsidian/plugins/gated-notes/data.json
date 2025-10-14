@@ -2,7 +2,7 @@
   "openaiApiKey": "",
   "openaiModel": "gpt-4.1",
   "openaiTemperature": 0,
-  "availableModels": [
+  "availableOpenaiModels": [
     "gpt-4-0613",
     "gpt-4",
     "gpt-3.5-turbo",
@@ -88,6 +88,18 @@
     "whisper-1",
     "text-embedding-ada-002"
   ],
+  "availableLmStudioModels": [],
+  "apiProvider": "openai",
+  "lmStudioUrl": "http://localhost:1234",
+  "lmStudioModel": "",
+  "refocusApiProvider": "match",
+  "refocusOpenaiModel": "gpt-4o",
+  "refocusLmStudioUrl": "http://localhost:1234",
+  "refocusLmStudioModel": "",
+  "variantApiProvider": "match",
+  "variantOpenaiModel": "gpt-4o",
+  "variantLmStudioUrl": "http://localhost:1234",
+  "variantLmStudioModel": "",
   "learningSteps": [
     1,
     10
@@ -97,9 +109,6 @@
   ],
   "buryDelayHours": 24,
   "gatingEnabled": true,
-  "apiProvider": "openai",
-  "lmStudioUrl": "http://localhost:1234",
-  "lmStudioModel": "",
   "logLevel": 1,
   "autoCorrectTags": true,
   "maxTagCorrectionRetries": 2,
@@ -108,5 +117,278 @@
   "defaultPdfMode": "text",
   "defaultPdfDpi": 200,
   "defaultPdfMaxWidth": 1400,
-  "pdfMaxTokensPerPage": 4000
+  "pdfMaxTokensPerPage": 4000,
+  "showNewCardIndicators": true,
+  "chapterFocusReviewsFirst": true,
+  "enableInterleaving": true,
+  "cardBrowserExpandedSubjects": [],
+  "guidanceSnippets": {
+    "Essential Cards": "Ignore any requested card count. Produce only 5–10 cards, focusing strictly on backbone concepts. Skip quotes, dates, and supporting examples.",
+    "Essential Additional Cards": "Ignore any requested card count. Produce only 5–10 cards to complement the existing flashcards, focusing strictly on backbone concepts. Skip quotes, dates, and supporting examples.",
+    "Expanded Cards": "Ignore any requested card count. Produce ~15–30 cards, including backbone concepts plus major supporting examples, quotes, or illustrations.",
+    "Expanded Additional Cards": "Ignore any requested card count. Produce ~15–30 cards to complement the existing flashcards, including backbone concepts plus major supporting examples, quotes, or illustrations.",
+    "Comprehensive Cards": "Ignore any requested card count. Produce as many cards as needed (30+ if appropriate), covering all quizzable content including names, dates, quotes, and counterarguments.",
+    "Comprehensive Additional Cards": "Ignore any requested card count. Produce as many cards as needed (30+ if appropriate) to complement the existing flashcards, covering all quizzable content including names, dates, quotes, and counterarguments."
+  },
+  "guidanceSnippetOrder": [
+    "Essential Cards",
+    "Essential Additional Cards",
+    "Expanded Cards",
+    "Expanded Additional Cards",
+    "Comprehensive Cards",
+    "Comprehensive Additional Cards"
+  ],
+  "scrollPositions": {},
+  "randomizeCardAppearance": false,
+  "randomizeFontSize": true,
+  "randomizeFontSizeMin": 14,
+  "randomizeFontSizeMax": 20,
+  "randomizeFontFamily": true,
+  "randomizeFontFamilies": [
+    "Arial",
+    "Helvetica",
+    "Georgia",
+    "Verdana"
+  ],
+  "randomizeTextColor": true,
+  "randomizeTextColors": [
+    "#000000",
+    "#1a1a1a",
+    "#333333",
+    "#0066cc"
+  ],
+  "randomizeTextAlignment": true,
+  "randomizeTextAlignments": [
+    "left",
+    "center"
+  ],
+  "randomizeLineHeight": false,
+  "randomizeLineHeightMin": 1.4,
+  "randomizeLineHeightMax": 1.8,
+  "randomizeLetterSpacing": false,
+  "randomizeLetterSpacingMin": 0,
+  "randomizeLetterSpacingMax": 1,
+  "randomizeTextTransform": false,
+  "randomizeTextTransforms": [
+    "none",
+    "capitalize"
+  ],
+  "randomizeRotation": false,
+  "randomizeRotationMin": -3,
+  "randomizeRotationMax": 3,
+  "randomizeBlur": false,
+  "randomizeBlurMin": 0,
+  "randomizeBlurMax": 1,
+  "randomizeBackgroundColor": false,
+  "randomizeBackgroundColors": [
+    "#ffffff",
+    "#f5f5f5",
+    "#fffef0",
+    "#f0f8ff"
+  ],
+  "pegSystems": [
+    {
+      "name": "Rhyming 1-10",
+      "pegs": [
+        {
+          "number": 1,
+          "word": "bun"
+        },
+        {
+          "number": 2,
+          "word": "shoe"
+        },
+        {
+          "number": 3,
+          "word": "tree"
+        },
+        {
+          "number": 4,
+          "word": "door"
+        },
+        {
+          "number": 5,
+          "word": "hive"
+        },
+        {
+          "number": 6,
+          "word": "sticks"
+        },
+        {
+          "number": 7,
+          "word": "heaven"
+        },
+        {
+          "number": 8,
+          "word": "gate"
+        },
+        {
+          "number": 9,
+          "word": "vine"
+        },
+        {
+          "number": 10,
+          "word": "hen"
+        }
+      ]
+    },
+    {
+      "name": "Body (Major System)",
+      "pegs": [
+        {
+          "number": 1,
+          "word": "Top (head)"
+        },
+        {
+          "number": 2,
+          "word": "Nose"
+        },
+        {
+          "number": 3,
+          "word": "Mouth"
+        },
+        {
+          "number": 4,
+          "word": "Ribs"
+        },
+        {
+          "number": 5,
+          "word": "Liver"
+        },
+        {
+          "number": 6,
+          "word": "Joint (hip)"
+        },
+        {
+          "number": 7,
+          "word": "Cap (knee)"
+        },
+        {
+          "number": 8,
+          "word": "Fibula"
+        },
+        {
+          "number": 9,
+          "word": "Ball (of foot)"
+        },
+        {
+          "number": 10,
+          "word": "Sand (ground)"
+        }
+      ]
+    }
+  ],
+  "memoryPalaces": [
+    {
+      "name": "Generic House",
+      "locations": [
+        {
+          "order": 1,
+          "location": "Front door"
+        },
+        {
+          "order": 2,
+          "location": "Hallway"
+        },
+        {
+          "order": 3,
+          "location": "Living room"
+        },
+        {
+          "order": 4,
+          "location": "Kitchen"
+        },
+        {
+          "order": 5,
+          "location": "Bedroom"
+        }
+      ]
+    }
+  ],
+  "availableModels": [
+    "gpt-4-0613",
+    "gpt-4",
+    "gpt-3.5-turbo",
+    "gpt-5-nano",
+    "gpt-5",
+    "gpt-5-mini-2025-08-07",
+    "gpt-5-mini",
+    "gpt-5-nano-2025-08-07",
+    "davinci-002",
+    "babbage-002",
+    "gpt-3.5-turbo-instruct",
+    "gpt-3.5-turbo-instruct-0914",
+    "dall-e-3",
+    "dall-e-2",
+    "gpt-4-1106-preview",
+    "gpt-3.5-turbo-1106",
+    "tts-1-hd",
+    "tts-1-1106",
+    "tts-1-hd-1106",
+    "text-embedding-3-small",
+    "text-embedding-3-large",
+    "gpt-4-0125-preview",
+    "gpt-4-turbo-preview",
+    "gpt-3.5-turbo-0125",
+    "gpt-4-turbo",
+    "gpt-4-turbo-2024-04-09",
+    "gpt-4o",
+    "gpt-4o-2024-05-13",
+    "gpt-4o-mini-2024-07-18",
+    "gpt-4o-mini",
+    "gpt-4o-2024-08-06",
+    "chatgpt-4o-latest",
+    "o1-mini-2024-09-12",
+    "o1-mini",
+    "gpt-4o-realtime-preview-2024-10-01",
+    "gpt-4o-audio-preview-2024-10-01",
+    "gpt-4o-audio-preview",
+    "gpt-4o-realtime-preview",
+    "omni-moderation-latest",
+    "omni-moderation-2024-09-26",
+    "gpt-4o-realtime-preview-2024-12-17",
+    "gpt-4o-audio-preview-2024-12-17",
+    "gpt-4o-mini-realtime-preview-2024-12-17",
+    "gpt-4o-mini-audio-preview-2024-12-17",
+    "o1-2024-12-17",
+    "o1",
+    "gpt-4o-mini-realtime-preview",
+    "gpt-4o-mini-audio-preview",
+    "computer-use-preview",
+    "o3-mini",
+    "o3-mini-2025-01-31",
+    "gpt-4o-2024-11-20",
+    "computer-use-preview-2025-03-11",
+    "gpt-4o-search-preview-2025-03-11",
+    "gpt-4o-search-preview",
+    "gpt-4o-mini-search-preview-2025-03-11",
+    "gpt-4o-mini-search-preview",
+    "gpt-4o-transcribe",
+    "gpt-4o-mini-transcribe",
+    "o1-pro-2025-03-19",
+    "o1-pro",
+    "gpt-4o-mini-tts",
+    "o3-2025-04-16",
+    "o4-mini-2025-04-16",
+    "o3",
+    "o4-mini",
+    "gpt-4.1-2025-04-14",
+    "gpt-4.1",
+    "gpt-4.1-mini-2025-04-14",
+    "gpt-4.1-mini",
+    "gpt-4.1-nano-2025-04-14",
+    "gpt-4.1-nano",
+    "gpt-image-1",
+    "codex-mini-latest",
+    "gpt-4o-realtime-preview-2025-06-03",
+    "gpt-4o-audio-preview-2025-06-03",
+    "o4-mini-deep-research",
+    "o4-mini-deep-research-2025-06-26",
+    "gpt-5-chat-latest",
+    "gpt-5-2025-08-07",
+    "gpt-3.5-turbo-16k",
+    "tts-1",
+    "whisper-1",
+    "text-embedding-ada-002"
+  ]
 }
