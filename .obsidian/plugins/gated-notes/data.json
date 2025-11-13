@@ -96,6 +96,7 @@
   "refocusOpenaiModel": "gpt-4o",
   "refocusLmStudioUrl": "http://localhost:1234",
   "refocusLmStudioModel": "",
+  "splitInheritHistory": true,
   "variantApiProvider": "match",
   "variantOpenaiModel": "gpt-4o",
   "variantLmStudioUrl": "http://localhost:1234",
@@ -305,6 +306,20 @@
       ]
     }
   ],
+  "algorithm": "SM2",
+  "ebisuDefaultHalflife": 24,
+  "ebisuDefaultAlpha": 3,
+  "ebisuDefaultBeta": 3,
+  "ebisuTargetRecall": 0.85,
+  "ebisuAgainSuccesses": 0,
+  "ebisuAgainTotal": 1,
+  "ebisuHardSuccesses": 1,
+  "ebisuHardTotal": 2,
+  "ebisuGoodSuccesses": 1,
+  "ebisuGoodTotal": 1,
+  "ebisuEasySuccesses": 2,
+  "ebisuEasyTotal": 2,
+  "ebisuAlwaysRecalculate": false,
   "availableModels": [
     "gpt-4-0613",
     "gpt-4",
